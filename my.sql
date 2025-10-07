@@ -3,4 +3,5 @@ CREATE TABLE monir_table(
     id INTEGER NOT NULL;
     name VARCHAR(255) NOT NULL;
     cg INTEGER 
-)
+);
+SELECT * FROM monir.monir_table
