@@ -4,4 +4,5 @@ CREATE TABLE monir_table(
     name VARCHAR(255) NOT NULL;
     cg INTEGER 
 );
-SELECT * FROM monir.monir_table
+SELECT * FROM monir.monir_table;
+SELECT id FROM monir.monit_table
