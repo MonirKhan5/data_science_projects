@@ -1,0 +1,6 @@
+CREATE DATABASE monir;
+CREATE TABLE monir_table(
+    id INTEGER NOT NULL;
+    name VARCHAR(255) NOT NULL;
+    cg INTEGER 
+)
